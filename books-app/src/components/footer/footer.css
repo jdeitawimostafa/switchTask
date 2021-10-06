@@ -1,0 +1,16 @@
+.footer {
+    background-color: black;
+    height: 100px;
+    color: white;
+    
+}
+
+.social {
+    height: 50px;
+    width: 100px;
+    margin-left: 500px;
+}
+
+h2 , p {
+    text-align: center;
+}

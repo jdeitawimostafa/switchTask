@@ -1,0 +1,22 @@
+.div-header {
+    /* margin-top: 20px; */
+    height: 200px;
+    background-color: #FFFD95;
+}
+
+h1 {
+    text-align: center;
+}
+
+.nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr  ;
+    text-align: center;
+}
+
+.nav , a {
+    padding-top: 10px;
+}
+a:hover {
+
+}

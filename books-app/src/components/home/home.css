@@ -1,0 +1,20 @@
+.earth {
+    height: 400px;
+    width: 400px;
+}
+
+.container1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.home {
+    width: 500px;
+    height: 400px;
+}
+
+.text {
+display: inline-block;
+padding-top: 100px;
+padding-right: 200px;
+}

@@ -1,0 +1,27 @@
+.cards {
+    border-style:solid ;
+    border-width: 10px; 
+    width: 200px;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+ .container {  
+    display: grid; 
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    padding-left:40px ;
+}  
+
+
+ form {
+    text-align: center;
+    height: 200px;
+    width: 150px;
+    margin-top: 40px; 
+    margin: auto;
+} 
+
+form , button {
+    margin-top: 10px;
+}
